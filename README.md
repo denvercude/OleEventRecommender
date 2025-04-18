@@ -5,7 +5,7 @@ A conceptual prototype showcasing how AI can help students find the best campus 
 Introduction
 At many universities, students struggle to discover relevant campus events that match their interests. Without personalized recommendations, low-attendance events go unnoticed and students miss valuable opportunities.
 
-Identified Problem
+Identified Problem:
 Information overload: Hundreds of events each semester overwhelm students.
 Lack of personalization: No tailored suggestions based on a student’s profile or past interests.
 Missed engagement: Organizers see low turnout; students miss out on community-building activities.
@@ -24,7 +24,7 @@ UI Mockups: Conceptual React-based interfaces displaying ranked events and filte
 
 Demo Video
 Watch the proposal walkthrough that illustrates the user flow and recommendation logic:
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/wNNaNQTuYYw)
+[![Watch the video](https://img.youtube.com/vi/wNNaNQTuYYw/0.jpg)](https://www.youtube.com/watch?v=wNNaNQTuYYw)
 
 Expected Impact
 Increased attendance: More students discover events aligned with their interests.
